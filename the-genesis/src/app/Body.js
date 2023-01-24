@@ -101,13 +101,9 @@ function Who({id}) {
                 <TextHead>Who:</TextHead>
                 <Name>Gerald Van Dyke, PhD</Name>
                 <Img height={height} src={Gerald} />
-                
-                <ul>
-                    <li>an Alumni Distinguished Undergraduate Professor Emeritus of NCSU, boasts a distinguished academic background with a B.S. in Botany from Eastern Illinois University, an M.S. and PhD in Plant Pathology from the University of Illinois.</li>
-                    <li>joined NCSU in 1968 and made a significant impact during his tenure, retiring in 2006.</li>
-                    <li>His expertise lies in the areas of plants and fungi and their interactions, both in teaching and research.</li>
-                    <li>In addition to his academic pursuits, he is also a skilled wood carver.</li>
-                </ul>
+                <Text>
+                    Gerald Van Dyke is an Alumni Distinguished Undergraduate Professor Emeritus of NCSU, with a distinguished academic background. He earned a B.S. in Botany from Eastern Illinois University, an M.S. and PhD in Plant Pathology from the University of Illinois. He joined NCSU in 1968, and made a significant impact during his tenure, retiring in 2006. His expertise lies in the areas of plants and fungi and their interactions, both in teaching and research. In addition to his academic pursuits, he is also a skilled wood carver.
+                </Text>
             </TextContainer>
         </WhoMain1>
         <WhoMain2>
@@ -115,12 +111,9 @@ function Who({id}) {
                 <TextHead>Who:</TextHead>
                 <Img height={height} src={Dan} />
                 <Name>Dan Reynolds, PhD</Name>
-                <ul>
-                    <li>an Adjunct Professor at Southeastern Free Will Baptist College, is currently the Chairman of the Triangle Association for the Science of Creation.</li>
-                    <li>He holds a BS in Chemistry from the University of Texas at San Antonio, and a PhD in Organic Chemistry from the University of Texas at Austin.</li>
-                    <li>With over 30 years of experience in the pharmaceutical industry, he has a wealth of knowledge and expertise in his field.</li>
-                    <li>In his free time, he enjoys exploring the origins of the universe, studying astronomy, cooking, camping, working with computers, walking, and photography.</li>
-                </ul>
+                <Text>
+                    Dan Reynolds is an Adjunct Professor at Southeastern Free Will Baptist College, and currently serves as the Chairman of the Triangle Association for the Science of Creation. He holds a BS in Chemistry from the University of Texas at San Antonio, and a PhD in Organic Chemistry from the University of Texas at Austin. With over 30 years of experience in the pharmaceutical industry, he has a wealth of knowledge and expertise in his field. In his free time, he enjoys exploring the origins of the universe, studying astronomy, cooking, camping, working with computers, walking, and photography.
+                </Text>
             </TextContainer>
         </WhoMain2>
         </>
