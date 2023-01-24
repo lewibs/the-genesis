@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.js": "/static/js/main.21fcebca.js",
+    "static/media/Genesis Lecture Series transparent background (1920 × 692 px).png": "/static/media/Genesis Lecture Series transparent background (1920 × 692 px).ebd450d79edf8dbf3101.png",
+    "static/media/Dan Bio pic.jpg": "/static/media/Dan Bio pic.250e492e87793a31847f.jpg",
+    "static/media/christmas-snowy-background_1048-9078.webp": "/static/media/christmas-snowy-background_1048-9078.dfd82dd0fba10878e66e.webp",
+    "static/media/SCM Logo - Long (White).png": "/static/media/SCM Logo - Long (White).b85f29b198e0e9b2c2b2.png",
+    "static/media/Gerald Van Dyke Bio Pic.jpg": "/static/media/Gerald Van Dyke Bio Pic.152492827496102acdc2.jpg",
+    "index.html": "/index.html",
+    "main.21fcebca.js.map": "/static/js/main.21fcebca.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.21fcebca.js"
+  ]
+}
