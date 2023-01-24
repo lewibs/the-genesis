@@ -1,7 +1,7 @@
 import styled from "styled-components";
-import { Body } from "./Body";
 import { Footer } from "./Footer";
 import { Header } from "./Header";
+import { Body } from "./Body";
 
 const Main = styled.div`
   display: flex;
@@ -17,11 +17,9 @@ const Center = styled.div`
 function App() {
   return (
     <Main>
-      <Center>
         <Header/>
         <Body/>
         <Footer/>
-      </Center>
     </Main>
   );
 }
