@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.js": "/c2/static/js/main.c08d2427.js",
-    "static/media/Genesis Lecture Series transparent background (1920 × 692 px).png": "/c2/static/media/Genesis Lecture Series transparent background (1920 × 692 px).ebd450d79edf8dbf3101.png",
-    "static/media/Dan Bio pic.jpg": "/c2/static/media/Dan Bio pic.250e492e87793a31847f.jpg",
-    "static/media/christmas-snowy-background_1048-9078.webp": "/c2/static/media/christmas-snowy-background_1048-9078.dfd82dd0fba10878e66e.webp",
-    "static/media/SCM Logo - Long (White).png": "/c2/static/media/SCM Logo - Long (White).b85f29b198e0e9b2c2b2.png",
-    "static/media/Gerald Van Dyke Bio Pic.jpg": "/c2/static/media/Gerald Van Dyke Bio Pic.152492827496102acdc2.jpg",
-    "index.html": "/c2/index.html",
-    "main.c08d2427.js.map": "/c2/static/js/main.c08d2427.js.map"
+    "main.js": "/the-genesis/static/js/main.9fef7804.js",
+    "static/media/Genesis Lecture Series transparent background (1920 × 692 px).png": "/the-genesis/static/media/Genesis Lecture Series transparent background (1920 × 692 px).ebd450d79edf8dbf3101.png",
+    "static/media/Dan Bio pic.jpg": "/the-genesis/static/media/Dan Bio pic.250e492e87793a31847f.jpg",
+    "static/media/christmas-snowy-background_1048-9078.webp": "/the-genesis/static/media/christmas-snowy-background_1048-9078.dfd82dd0fba10878e66e.webp",
+    "static/media/SCM Logo - Long (White).png": "/the-genesis/static/media/SCM Logo - Long (White).b85f29b198e0e9b2c2b2.png",
+    "static/media/Gerald Van Dyke Bio Pic.jpg": "/the-genesis/static/media/Gerald Van Dyke Bio Pic.152492827496102acdc2.jpg",
+    "index.html": "/the-genesis/index.html",
+    "main.9fef7804.js.map": "/the-genesis/static/js/main.9fef7804.js.map"
   },
   "entrypoints": [
-    "static/js/main.c08d2427.js"
+    "static/js/main.9fef7804.js"
   ]
 }
