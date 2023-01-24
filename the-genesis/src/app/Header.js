@@ -46,7 +46,6 @@ const Buttons = styled.div`
 const Button = styled.button`
     background: rgba(0,0,0,0);
     height: ${minHeight};
-    width: 100px;
     border: 0px solid black;
     border-left: 0px solid white;
     color:white;
